@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in React Native and you try to access the value before it has been fully retrieved.  It's often masked by seemingly unrelated errors like undefined is not an object (evaluating '_this2.state.someValue') or similar.
